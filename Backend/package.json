@@ -1,0 +1,35 @@
+{
+  "name": "be-final_project-split_bill-rmt45",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.6.8",
+    "bcryptjs": "^2.4.3",
+    "cloudinary": "^2.0.3",
+    "cookie-parser": "^1.4.6",
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.5",
+    "express": "^4.18.3",
+    "express-session": "^1.18.0",
+    "jsonwebtoken": "^9.0.2",
+    "midtrans-client": "^1.3.1",
+    "mongodb": "^6.5.0",
+    "multer": "^1.4.5-lts.1",
+    "nodemailer": "^6.9.12",
+    "nodemon": "^3.1.0",
+    "request": "^2.88.2",
+    "socket.io": "^4.7.5",
+    "tesseract.js": "^5.0.5"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0",
+    "supertest": "^6.3.4"
+  }
+}
